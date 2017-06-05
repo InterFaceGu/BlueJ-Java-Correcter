@@ -9,7 +9,7 @@ We will accomplish these goals in next two weeks:
 
 2.Bad BLANK leaving in the code
 
- (like if            (){} , if(         )     { }),find and mark them.
+![alt text][pg2]
  
 3.Optimizing the operation menu
 
@@ -18,4 +18,5 @@ We will accomplish these goals in next two weeks:
 
 ?-? 待完成：对每个目标的图片举例；已经完成的功能的介绍 ?-?
 
-[pg1]: httpsHOIUOIOPOOO(*)*(() 
+[pg1]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetues/Picture1.png
+[pg2]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetues/Picture1.png
