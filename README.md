@@ -18,4 +18,4 @@ We will accomplish these goals in next two weeks:
 
 ?-? 待完成：对每个目标的图片举例；已经完成的功能的介绍 ?-?
 
-[pg1]: https://github.com/ESJP/Chess-Game/blob/master/Form.png 
+[pg1]: httpsHOIUOIOPOOO(*)*(() 
