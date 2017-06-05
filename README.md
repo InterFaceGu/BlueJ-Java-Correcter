@@ -15,8 +15,12 @@ We will accomplish these goals in next two weeks:
 
 4.Improve code computing efficiency
 
+# What We Have Done
+V1.0.
+1.The Opintion Meau
 
-?-? 待完成：对每个目标的图片举例；已经完成的功能的介绍 ?-?
+2.Checking the class name
+After checking the class, if there's any class name not up to standred , We will highlight it.
 
 [pg1]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetues/Picture1.png
-[pg2]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetues/Picture1.png
+[pg2]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetues/Picture2.png
