@@ -23,5 +23,5 @@ V1.0.
 2.Checking the class name
 After checking the class, if there's any class name not up to standred , We will highlight it.
 
-[pg1]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetues/Picture1.png
-[pg2]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetues/Picture2.png
+[pg1]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Pictures/Picture1.png
+[pg2]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetures/Picture2.png
