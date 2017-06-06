@@ -20,8 +20,12 @@ V1.0.
 
 1.The Opintion Meau
 
+![alt text][pg3]
 2.Checking the class name
 After checking the class, if there's any class name not up to standred , We will highlight it.
 
-[pg1]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Pictures/Picture1.png
-[pg2]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/Picetures/Picture2.png
+![alt text][pg4]
+[pg1]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/ThePictures/Picture1.png
+[pg2]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/ThePictures/Picture2.png
+[pg3]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/ThePictures/Picture3.png
+[pg4]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/ThePictures/Picture4.png
