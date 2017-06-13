@@ -103,7 +103,7 @@ public class ExtensionTools {
 	}
 	
 	public String removeNotLetter(String st){
-		String reg = "[^a-zA-Z]";
+		String reg = "[^a-zA-Z0-9]";
 		return st.replaceAll(reg, "");
 	}
 }
