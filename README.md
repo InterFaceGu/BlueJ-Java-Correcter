@@ -3,17 +3,13 @@ A Extension called 'JAVA Parer' for BlueJ IDE.
 # Goals for later days
 We will accomplish these goals in next two weeks:
 
-1.Class Name, Method Name, Viriable Name's checking and high lighting.
-![alt text][pg1]
-
-
-2.Bad BLANK leaving in the code
+1.Bad BLANK leaving in the code
 
 ![alt text][pg2]
  
-3.Optimizing the operation menu
+2.Optimizing the operation menu
 
-4.Improve code computing efficiency
+3.Improve code computing efficiency
 
 # What We Have Done
 V1.0.
@@ -26,6 +22,10 @@ V1.0.
 After checking the class, if there's any class name not up to standred , We will highlight it.
 
 ![alt text][pg4]
+
+3.Checking the Method Name, Viriable Name's checking and high lighting.
+![alt text][pg1]
+
 
 
 [pg1]: https://github.com/InterFaceGu/BlueJJavaParser/blob/master/ThePictures/Picture1.png
